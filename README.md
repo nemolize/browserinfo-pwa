@@ -1,2 +1,3 @@
-# browserinfo-pwa
-Created with CodeSandbox
+# pwa
+
+react pwa template
